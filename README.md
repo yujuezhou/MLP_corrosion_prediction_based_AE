@@ -1,6 +1,6 @@
 # MLP_corrosion_prediction_based-AE
 This repository employs MLP and the monitored acoustic emission data to predict the corrosion rates of reinforcements of marine pile foundation
-# Environment configuration
+# Environment requests
 
 1. Anaconda python=3.6.5
 2. tensorflow-gpu
